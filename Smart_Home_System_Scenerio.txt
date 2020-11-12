@@ -1,0 +1,5 @@
+Scenario
+The current time and temperature are displayed on the LCD. 
+When movement is detected by uisng PIR sensor, the blue emergency lights on the two LEDs alternately turn on and an emergency bell sounds.
+It shows "movement detection" and "Emgergency" on the LCD and captures the situation by uisng a camera sensor. 
+When you press the button, the two LED emergency lights and emergency bell are turned off, and the current time and temperature are displayed on the LCD again.
